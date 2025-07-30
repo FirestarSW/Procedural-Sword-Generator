@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|e:\\caius\\games programming\\procedural sword generator\\procedural sword generator\\assets\\runtime\\scripts\\sworddesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\sworddesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\swordcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\swordcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\filereadersettingsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\filereadersettingsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\menuitemsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\menuitemsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\sword data\\sworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\sword data\\sworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\profile2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\profile2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\jsonsworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\jsonsworddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\sword data\\sworddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\sword data\\sworddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\assets\\runtime\\scripts\\file handling\\jsonwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2D037-929E-CDBF-EF78-167E9B046A56}|Assembly-CSharp.csproj|solutionrelative:assets\\runtime\\scripts\\file handling\\jsonwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwordCreator.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\SwordCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\SwordCreator.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\SwordCreator.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\SwordCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:53:59.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwordDesigner.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\SwordDesigner.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\SwordDesigner.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\SwordDesigner.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\SwordDesigner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:41:04.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile2D.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Profile2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\Profile2D.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Profile2D.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\Profile2D.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:42:49.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JSONHelper.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\JSONHelper.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONHelper.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\JSONHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:07:01.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JSONSwordData.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONSwordData.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\JSONSwordData.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONSwordData.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\JSONSwordData.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:58:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JSONWriter.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONWriter.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\JSONWriter.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONWriter.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\JSONWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:39:21.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JSONReader.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\JSONReader.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\JSONReader.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\JSONReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:01:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemSettings.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\MenuItemSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\MenuItemSettings.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\MenuItemSettings.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\MenuItemSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:58:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileReaderSettingsSO.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\FileReaderSettingsSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\FileReaderSettingsSO.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\FileReaderSettingsSO.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\FileReaderSettingsSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:10:34.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\FileReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\File Handling\\FileReader.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\File Handling\\FileReader.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\File Handling\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:06:51.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwordData.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Sword Data\\SwordData.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\Sword Data\\SwordData.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Sword Data\\SwordData.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\Sword Data\\SwordData.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:06:40.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwordDataSO.cs",
+              "DocumentMoniker": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Sword Data\\SwordDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Runtime\\Scripts\\Sword Data\\SwordDataSO.cs",
+              "ToolTip": "E:\\caius\\Games Programming\\Procedural Sword Generator\\Procedural Sword Generator\\Assets\\Runtime\\Scripts\\Sword Data\\SwordDataSO.cs",
+              "RelativeToolTip": "Assets\\Runtime\\Scripts\\Sword Data\\SwordDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:06:40.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

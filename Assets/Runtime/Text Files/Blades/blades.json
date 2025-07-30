@@ -1,0 +1,154 @@
+{
+  "name":  "blades",
+  "array": [
+    {
+      "name": "",
+      "id": 0,
+      "type": "",
+      "profiles": {
+        "left": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ],
+        "right": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ]
+
+      },
+      "crossSections": {
+        "leftFront": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ],
+        "leftBack": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ],
+        "rightFront": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ],
+        "rightBack": [
+          {
+            "curves": {
+              "inner": {
+                "convex": false
+
+              },
+              "outer": {
+                "convex": false
+
+              }
+
+            },
+            "bottomMidPoint": 0,
+            "topMidPoint": 0,
+            "length": 0,
+            "bottomwidth": 0,
+            "topWidth": 0
+
+          }
+
+        ],
+        "weight": 0,
+        "materials": []
+
+      },
+      "weight": 0,
+      "materials": []
+    }
+
+  ]
+
+}

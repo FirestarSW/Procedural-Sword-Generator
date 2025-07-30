@@ -1,0 +1,94 @@
+{
+  "name":  "swords",
+  "array": [
+    {
+      "name": "",
+      "id": 5,
+      "type": "",
+      "blade": {
+        "id": 0,
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "flip": {
+          "x": false,
+          "y": false,
+          "z": false
+        }
+      },
+      "tang": {
+        "id": 0,
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "flip": {
+          "x": false,
+          "y": false,
+          "z": false
+        }
+      },
+      "fullers": [
+        {
+          "id": 0,
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ],
+      "guards": [
+        {
+          "id": 0,
+          "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "flip": {
+            "x": false,
+            "y": false,
+            "z": false
+          }
+        }
+      ],
+      "grip": {
+        "id": 0,
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "flip": {
+          "x": false,
+          "y": false,
+          "z": false
+        }
+      },
+      "pommel": {
+        "id": 0,
+        "offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "flip": {
+          "x": false,
+          "y": false,
+          "z": false
+        }
+      },
+      "weight": 0.0,
+      "materials": []
+    }
+  ]
+}
